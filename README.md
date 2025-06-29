@@ -24,4 +24,15 @@ KPI cards
 
 And more...
 
+🔍 Business Impact:
+This dashboard provides real-time visibility into:
+
+Sales, Profit & Quantity trends
+
+Top-performing regions, customers, and products
+
+Monthly and category-level performance
+
+Payment method distribution and AOV analysis
+
 This dashboard empowers stakeholders to explore sales by category, region, customer, and time—leading to faster, data-driven decisions.
